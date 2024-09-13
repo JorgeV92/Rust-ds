@@ -89,7 +89,7 @@ fn main() {
     let log_path = get_log_path().expect("No log file found in the directory");
 
     // Accept incoming connections and spawn a thread to handle each one
-    for stream in listener.incoming() {
+    for stream in listener.incoming() { 
         match stream {
             Ok(stream) => {
                 let log_path = log_path.clone(); // Clone the log file path for each thread

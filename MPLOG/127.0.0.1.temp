@@ -1,1 +1,41 @@
-0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 1 This is a test log entry
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 6 03/22 08:51:01 INFO   :.main: *************** RSVP Agent started ***************
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 8 03/22 08:51:01 INFO   :...locate_configFile: Specified configuration file: /u/user10/rsvpd1.conf
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 9 03/22 08:51:01 INFO   :.main: Using log level 511
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 10 03/22 08:51:01 INFO   :..settcpimage: Get TCP images rc - EDC8112I Operation not supported on socket.
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 12 03/22 08:51:01 INFO   :..settcpimage: Associate with TCP/IP image name = TCPCS
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 13 03/22 08:51:02 INFO   :..reg_process: registering process with the system
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 14 03/22 08:51:02 INFO   :..reg_process: attempt OS/390 registration
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 15 03/22 08:51:02 INFO   :..reg_process: return from registration rc=0
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 18 03/22 08:51:06 INFO   :...read_physical_netif: index #0, interface VLINK1 has address 129.1.1.1, ifidx 0
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 19 03/22 08:51:06 INFO   :...read_physical_netif: index #1, interface TR1 has address 9.37.65.139, ifidx 1
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 20 03/22 08:51:06 INFO   :...read_physical_netif: index #2, interface LINK11 has address 9.67.100.1, ifidx 2
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 21 03/22 08:51:06 INFO   :...read_physical_netif: index #3, interface LINK12 has address 9.67.101.1, ifidx 3
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 22 03/22 08:51:06 INFO   :...read_physical_netif: index #4, interface CTCD0 has address 9.67.116.98, ifidx 4
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 23 03/22 08:51:06 INFO   :...read_physical_netif: index #5, interface CTCD2 has address 9.67.117.98, ifidx 5
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 24 03/22 08:51:06 INFO   :...read_physical_netif: index #6, interface LOOPBACK has address 127.0.0.1, ifidx 0
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 25 03/22 08:51:06 INFO   :....mailslot_create: creating mailslot for timer
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 26 03/22 08:51:06 INFO   :...mailbox_register: mailbox allocated for timer
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 28 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 29 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 30 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 33 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 35 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 36 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 37 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 39 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 42 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 43 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 44 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 46 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 48 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 49 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 50 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 52 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 54 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 55 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 56 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 57 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 60 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 61 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 62 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+0.0.0.0 7878 /Users/jorgevelez/Desktop/Rust-ds/MPLOG/machine.1.log 63 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
